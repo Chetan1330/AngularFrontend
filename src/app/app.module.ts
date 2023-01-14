@@ -19,6 +19,7 @@ import { environment as env } from '../environments/environment';
 
 
 @NgModule({
+  declarations: [...],
   imports: [
     BrowserAnimationsModule,
     FormsModule,
